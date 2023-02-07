@@ -19,5 +19,5 @@ To study the clockwise and anticlockwise running of a three phase induction moto
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Manas verma  | Student | Information Technology | manasverma012345@gmail.com.
-2 | Dr. Ashutosh Tiwari | Faculty | Apllied Sciences and Humanities  | ashutosh.tiwari@recbanda.ac.in| .
+1 | Manas verma  | Student | Information Technology | Rajkiya Engineering College | manasverma012345@gmail.com
+2 | Dr. Ashutosh Tiwari | Faculty | Apllied Sciences and Humanities  | Rajkiya Engineering College| ashutosh.tiwari@recbanda.ac.in.
