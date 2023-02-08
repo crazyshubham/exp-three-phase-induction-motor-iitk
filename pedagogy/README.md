@@ -5,13 +5,13 @@
 
 
 <br>
-<b> Experiment : Name of the experiment	 <a name="top"></a> <br>
+<b> Experiment : To study running & speed reversal of a 3-phase induction motor and record speed in both direction 	 <a name="top"></a> <br>
 </p>
 
-<b>Discipline | Fill your discipline name here <b> 
+<b>Discipline |Electrical Engineering  <b> 
 :--|:--|
-<b> Lab | Fill your lab name here<b> 
-<b> Experiment|  Fill your experiment name here   <b> 
+<b> Lab | Basic Electrical Engineering Lab<b> 
+<b> Experiment|  To study running & speed reversal of a 3-phase induction motor and record speed in both direction   <b> 
 
 
 <h4> [1. Focus Area](#LO)
