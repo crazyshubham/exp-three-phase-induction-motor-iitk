@@ -19,6 +19,7 @@ Three phase induction motor mainly construct of two part –<br>
 
 
 <p> <h4>Let’s understand the working of 3-phase induction motor </h4><p> <br>
+  
  ![image](https://user-images.githubusercontent.com/98009042/217271921-9d59a150-a19f-4a00-84c4-19265e682678.png)
 Here R, Y, B are the phases of 3-phase induction motor <br>
 For a clockwise rotation of motor we generally used positive sequence of (RYB) to a 3-phase winding where connection are given as –<br>
