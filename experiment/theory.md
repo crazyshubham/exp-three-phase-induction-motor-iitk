@@ -2,7 +2,8 @@
 <p>When a 3-phase electric supply is given to this type of motor it does not require any starting device 
 <b>“3-Phase Induction motor is also called a Self-Starting device “ </b> 
   
-  ![image](https://user-images.githubusercontent.com/98009042/217274342-22d34caf-5fda-4793-8607-503d98632ecc.png)<br>
+
+  <br>
 Three phase induction motor mainly construct of two part –<br>
   <b>1.	Stator </b><br>
   <b>2.	Rotor</b><br>
@@ -19,8 +20,9 @@ Three phase induction motor mainly construct of two part –<br>
 
 
 <p> <h4>Let’s understand the working of 3-phase induction motor </h4><p> <br>
-  
- ![image](https://user-images.githubusercontent.com/98009042/217271921-9d59a150-a19f-4a00-84c4-19265e682678.png)
+ <br>
+<img src="images/Screenshot_20230209_125927.png" width="350" hight="350" >
+  <br>
 Here R, Y, B are the phases of 3-phase induction motor <br>
 For a clockwise rotation of motor we generally used positive sequence of (RYB) to a 3-phase winding where connection are given as –<br>
 R is connected first terminal of autotransformer of starter , <br>
