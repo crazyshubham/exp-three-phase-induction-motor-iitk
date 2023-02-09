@@ -1,9 +1,9 @@
 ## Introduction
 
 
-<b>Discipline | <b>Electrical 
+<b>Discipline | <b>Electrical Engineering
 :--|:--|
-<b> Lab | <b> Basic Electrical Engineering 
+<b> Lab | <b> Basic Electrical Engineering Lab
 <b> Experiment|     <b> To study running & speed reversal of a 3-phase induction motor and record speed in both direction and Experiment 13
 
 ### About the Experiment 
