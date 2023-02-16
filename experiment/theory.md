@@ -1,4 +1,4 @@
-
+<h3> Theory </h3>
 <p>When a 3-phase electric supply is given to this type of motor it does not require any starting device 
 <b>“3-Phase Induction motor is also called a Self-Starting device “ </b> <br><br>
   
