@@ -1,1 +1,2 @@
-To study running & speed reversal of a 3-phase induction motor and record speed in both direction 
+1. To study the effect of phase change of three phase induction motor .
+2. To calculate the speed in both direction . 
