@@ -1,1 +1,1 @@
-When a 3-phase electric supply is given to this type of motor it does not require any starting device 
+<h2>To study running & speed reversal of a 3-phase induction motor and record speed in both direction  </h2>
