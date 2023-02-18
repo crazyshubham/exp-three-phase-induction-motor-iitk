@@ -2,7 +2,7 @@
 <p>When a 3-phase electric supply is given to this type of motor it does not require any starting device<br> <b>“3-Phase Induction motor is also called a Self-Starting device “ </b> <br>
   
 
-  <img src="images/Screenshot 2023-02-09 130650.png" width="350" hight="350">
+  <img src="images/Screenshot_20230218_115548.png" width="450" hight="450">
   <br><br>
 Three phase induction motor mainly construct of two part –<br>
   <b>1.	Stator </b><br>
