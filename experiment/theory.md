@@ -1,6 +1,5 @@
 <h3> Theory </h3>
-<p>When a 3-phase electric supply is given to this type of motor it does not require any starting device 
-<b>“3-Phase Induction motor is also called a Self-Starting device “ </b> <br><br>
+<p>When a 3-phase electric supply is given to this type of motor it does not require any starting device<br> <b>“3-Phase Induction motor is also called a Self-Starting device “ </b> <br>
   
 
   <img src="images/Screenshot 2023-02-09 130650.png" width="350" hight="350">
@@ -9,8 +8,8 @@ Three phase induction motor mainly construct of two part –<br>
   <b>1.	Stator </b><br>
   <b>2.	Rotor</b><br>
   <b>Stator :</b> The stationary part of the motor is known as stator .it consist of a three phase winding which are termed as R, Y, B .<br>
-  <b>Rotor :</b> The rotating part of a motor is known as rotor they are generally two type of rotor in 3-phase induction motor
-  <b>a)	Squirrel cage rotor</b> 
+  <b>Rotor :</b> The rotating part of a motor is known as rotor they are generally two type of rotor in 3-phase induction motor<br>
+  <b>a)	Squirrel cage rotor</b> <br>
   <b>b)	Phase wound or wound rotor.</b><br>
   At time of starting 3-phase induction motor draw heavy current this current is reduced by reducing the starting voltage with the help of 3-phase autotransformer.
 <br>
