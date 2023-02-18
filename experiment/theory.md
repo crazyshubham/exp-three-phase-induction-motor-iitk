@@ -33,6 +33,8 @@ The total three output terminal are connected to 3 winding of three phase induct
   <b> Speed of rotor </b>
   <h4> Nr= (1-Es/Er)Ns </h4><br>
   where, Ns= 120f/p<br>
+  Er= Running Voltage<br> 
+  Es= starting voltage <br>
   f= 50Hz <br>
   Number of pole of motor = 4<br>
 For measurement of voltage we simply connect two terminal input starter to voltmeter terminal .<br>
