@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": " 1.The starting torque of a squirrel-cage induction motor is?",
+      "question": "1.The starting torque of a squirrel-cage induction motor is?",
       "answers": {
         "a": "Full-load torque",
         "b": "Slightly more than full-load torque",
@@ -33,6 +33,40 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3.Which of the following component is usually fabricated out of silicon steel?",
+      "answers": {
+        "a": "Stator core",
+        "b": "Bearings",
+        "c": "Shaft",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "The stator core is made of silicon because<br> it possesses high magnetic permeability and low magnetic hysteresis. <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " 4.The good power factor of an induction motor can be achieved if the average flux density in the air gap is?",
+      "answers": {
+        "a": "Infinity",
+        "b": "Large",
+        "c": "Absent",
+        "d": "Small"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
