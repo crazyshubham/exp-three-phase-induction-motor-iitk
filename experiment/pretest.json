@@ -34,6 +34,41 @@
       },
       "correctAnswer":"c",
       "difficulty": "beginner"
+    },
+     {
+      "question": "3) Slip ring of an induction motor is usually made up of",
+      "answers": {
+        "a": "Aluminium",
+        "b": "Copper",
+        "c": "Phosphorus Bronze",
+        "d": "Carbon"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Phosphor bronze is an alloy of copper, tin, and phosphorus.<br>The tin increases the corrosion resistance and strength of the alloy.<br> The phosphorus increases the wear resistance and stiffness of the alloy.",
+        "d": "Explanation 2"
+      },
+      "correctAnswer":"c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4)A double squirrel-cage induction motor has",
+      "answers": {
+        "a": "Two series winding in stator",
+        "b": "Two parallel windings in stator",
+        "c": "Two parallel winding in Rotor",
+        "d": "Two rotors moving in opposite direction"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "The outer cage has less leakage flux linkage because of its relatively open slots hence it has lower reactance.",
+        "d": "Explanation 2"
+      },
+      "correctAnswer":"c",
+      "difficulty": "beginner"
     }
+    
   ]
 }
