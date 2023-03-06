@@ -1,9 +1,9 @@
 <b>Step 1</b> : To aware the connection diagram of the given system <br>
-         3-Phase suplly --> input terminal of autotransformer<br>
-         Two output terminal of autotransformer  --> two terminal of voltmeter <br>
-         any two output terminal of autotransformer--> two terminal of motor <br>
-         one output terminal of autotransformer --> one terminal of ammeter<br>
-         one terminal of motor --> another terminal of ammeter<br>
+                3-Phase suplly --> input terminal of autotransformer<br>
+                Two output terminal of autotransformer  --> two terminal of voltmeter <br>
+                any two output terminal of autotransformer--> two terminal of motor <br>
+                one output terminal of autotransformer --> one terminal of ammeter<br>
+                one terminal of motor --> another terminal of ammeter<br>
 
 
 <b>Step 2 </b>: Shift the MCB switch to start the power and note the phase. Initially it’s in RBY phase and  can changed further. <br>
