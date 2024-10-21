@@ -6,7 +6,7 @@
                 one terminal of motor --> another terminal of ammeter<br>
 
 
-<b>Step 2 </b>: Shift the MCB switch to start the power and note the phase. Initially it’s in RBY phase and  can changed further. <br>
+<b>Step 2 </b>: Click on MCB switch to start the power and note the phase. Initially it’s in RBY phase and  can changed further. <br>
 <b>Step 3 </b>: Put on the switch of Autotransformer to start the motor.<br>
 <b>Step 4 </b>: Note the direction of rotor, which depends on the phase that we set using phase switch.<br>
 <b>Step 5 </b>: Click on the TACHOMETER to obtain the speed of the motor and note it down<br>
