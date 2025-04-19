@@ -1,5 +1,5 @@
 <h3> Theory </h3>
-<p>  <b>“A 3-phase induction motor operates on a 3-phase AC supply, where the stator generates a rotating magnetic field that induces current in the rotor, causing it to turn and drive mechanical loads.“  </b>  3-Phase Induction motor is called a Self-Starting device because when a 3-phase electric supply is given to this type of motor it does not require any starting device. <br><br>
+<p>  <b>“A three-phase induction motor is an AC motor that runs on a three-phase power supply and converts electrical energy into mechanical energy using electromagnetic induction.“  </b> <b>3-Phase Induction motor is called a Self-Starting device</b> because when a 3-phase electric supply is given to this type of motor it does not require any starting device. This experiment helps us understand how the motor operates and shows that its direction of rotation can be easily changed by swapping any two of the three supply wires, an important aspect in electrical machines as it provides a practical understanding of motor behavior, control, and applications. <br><br>
   
 
   <img src="images/Screenshot_20230218_115548.png" width="450" hight="450">
