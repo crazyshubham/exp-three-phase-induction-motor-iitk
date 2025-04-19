@@ -1,40 +1,69 @@
-<h2>References</h2><hr>1.Title & Author: 
-Performance Analysis of Three-Phase Induction Motor with AC Direct and VFD by Dinesh Kumar
+<h1>References</h1><hr>  <h3><b>1. Performance Analysis of Three-Phase Induction Motor with AC Direct and VFD</b></h3>
+<b>Author:</b> Dinesh Kumar<br>
+<b>Publication:</b> IOP Conference Series: Materials Science and Engineering, Vol. 331, Article 012025 (2018)<br>
+<b>Link:</b> https://iopscience.iop.org/article/10.1088/1757-899X/331/1/012025/pdf.
+<br><br>
 
-Key Findings:
-VFDs improve efficiency and reduce harmonic distortion in three-phase induction motors.
+✅<b> Key Highlights:</b><br>
+<ul><li>Compares motor performance using AC direct vs. VFD (Variable Frequency Drive).</li>
+<li>VFDs improve energy efficiency and reduce harmonic distortion.</li>
+<li>Offers experimental data supporting VFD advantages in motor control.</li></ul>
 
-Citation:
-Kumar, D. (2018). Performance analysis of three-phase induction motor with AC direct and VFD. IOP Conference Series: Materials Science and Engineering, 331, 012025.
+🔍<b> Use For:</b><br>
+<ul><li>Research on energy-efficient motor control.</li>
 
-Link:https://iopscience.iop.org/article/10.1088/1757-899X/331/1/012025/pdf.
- <br><br>
-2.Title & Author: 
-A Study on Speed Reversal of Induction Motors by Jane Smith
+<li>Technical comparison between traditional and modern drive systems.</li></ul>
+ <br>
+<h3><b> 2. A Study on Speed Reversal of Induction Motors</b></h3>
+<b>Author:</b> Jane Smith<br>
+<b>Publication:</b> International Journal of Electrical Engineering, Vol. 45(2), pp. 110–115 (2019)<br>
+<b>Link:</b> https://eedofdit.weebly.com/uploads/7/3/2/6/7326910/lm_ee103_running_reversing_3p_im.pdf 
+<br><br>
 
-Key Findings: 
-Reversing phase sequence changes motor direction.
+✅ <b>Key Highlights:</b><br>
+<ul><li>Reversing motor direction is achieved by changing the phase sequence.</li>
 
-Citation: 
-Smith, J. (2019). A study on speed reversal of induction motors. International Journal of Electrical Engineering, 45(2), 110-115.
+<li>Practical explanation useful for systems like conveyor belts and lifts.</li>
 
-Link:https://eedofdit.weebly.com/uploads/7/3/2/6/7326910/lm_ee103_running_reversing_3p_im.pdf <br><br>
-3.Title: ME2209 Lab Manual - Induction Motor Experiment
+<li>Demonstrates safe methods for direction reversal in motor control circuits.</li></ul>
+
+🔍 <b>Use For:</b><br>
+<ul><li>Applications needing bidirectional motor control.</li>
+
+<li>Understanding phase sequencing in three-phase systems.</li></ul>
 <br>
-Key Findings: Provides detailed instructions on experiments involving the running, reversing, and speed measurement of a three-phase induction motor.
+<h3><b> 3. ME2209 Lab Manual – Induction Motor Experiment</b></h3>
+<b>Institution/Source:</b> Likely a university laboratory guide<br>
+<b>Link:</b> https://marching2wardvictory.files.wordpress.com/2013/07/me2209-lab-manual.pdf
+<br><br>
+✅ <b>Key Highlights:</b><br>
+<br>
+<ul><li>Step-by-step lab instructions for running, reversing, and measuring speed of three-phase induction motors.</li>
 
-Focuses on practical application for speed reversal and measurement.
+<li>Useful for students performing hands-on electrical engineering experiments.</li>
 
-Use For: Lab experiments on induction motor performance, specifically on speed reversal and measurement.<br>
+<li>Emphasizes real-world application of speed reversal techniques.</li></ul>
 
-Link:https://marching2wardvictory.files.wordpress.com/2013/07/me2209-lab-manual.pdf <br>
-<br>4.Title: Electrical Power Factor
-Key Findings:
+🔍 <b>Use For:</b><br>
+<ul><li>Lab sessions and student training in electrical machinery.</li>
 
-Explains power factor and its impact on electrical systems and motor performance.
+<li>Demonstrating motor behavior through practical tasks.</li></ul>
 
-Emphasizes its role in motor efficiency and operation.
+ <br>
+<h3><b>4. Electrical Power Factor</b></h3> 
+<b>Source:</b> Electrical4U (Educational Resource)<br>
+<b>Link:</b> https://www.electrical4u.com/electrical-power-factor
+<br><br>
 
-Use For: Understanding power factor to analyze motor performance, especially under varying load conditions.
+✅ <b>Key Highlights:</b><br>
+<ul><li>Explains the concept of power factor in AC circuits and its significance.</li>
 
-Link to Article:https://www.electrical4u.com/electrical-power-factor <br>
+<li>Discusses impact on system losses, motor performance, and overall efficiency.</li>
+
+<li>Illustrates how poor power factor affects electrical load and energy bills.</li></ul>
+
+🔍<b> Use For:</b><br>
+<ul><li>Foundational theory on power factor and its relationship to motor efficiency.</li>
+
+<li>Enhancing energy analysis for motors under load conditions.</li></ul>
+
